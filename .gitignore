@@ -30,3 +30,22 @@
 *.exe
 *.out
 *.app
+
+# etc
+*.user
+*.log
+*.obj
+*.idb
+*.pdb
+*.tlog
+*.lastbuildstate
+*.vcxproj
+*.filters
+*.ilk
+*.exe
+*.ipch
+*.db
+*.suo
+*.sln
+poco-1.8.1*
+*.enc
